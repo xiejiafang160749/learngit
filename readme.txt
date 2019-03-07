@@ -3,5 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creat a new branck is quick AND simple.
-Second way to add merge.
-bug 101.
+second way to add merge.
